@@ -5,9 +5,8 @@ import { Analytics } from '@vercel/analytics/next'
 import './globals.css'
 
 export const metadata: Metadata = {
-  title: 'v0 App',
-  description: 'Created with v0',
-  generator: 'v0.app',
+  title: 'Dimy Teknologi | System Solutions',
+  description: 'Dimy Teknologi Indonesia delivers modular ERP implementations, dependable Point-of-Sale platforms, and custom scalable software to elevate your business operations.',
 }
 
 export default function RootLayout({
