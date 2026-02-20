@@ -6,6 +6,8 @@ import Hero from "@/components/hero"
 import About from "@/components/about"
 import Services from "@/components/services"
 import Projects from "@/components/projects"
+import TechStack from "@/components/techstack"
+import Products from "@/components/products"
 import Upcoming from "@/components/upcoming"
 import Footer from "@/components/footer"
 
@@ -27,6 +29,8 @@ export default function Home() {
       <About />
       <Services />
       <Projects />
+      <TechStack />
+      <Products />
       <Upcoming />
       <Footer />
     </main>
